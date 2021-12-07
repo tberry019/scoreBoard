@@ -8,10 +8,10 @@ main {
   flex-grow: 1;
 }
 
-footer{
+/* footer{
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-}
+} */
 
 
